@@ -2,6 +2,7 @@
 
 #$controller_count=1
 #$controller_vm_memory=512
+#$controller_enable_deployments=false
 
 #$worker_count=1
 #$worker_vm_memory=512
